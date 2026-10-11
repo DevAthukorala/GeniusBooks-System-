@@ -1,0 +1,14 @@
+.vs/
+.tools/
+build/
+x64/
+Debug/
+Release/
+*.user
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.data
+*.data.tmp
+*.data.lock
